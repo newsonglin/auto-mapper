@@ -1,2 +1,2 @@
 # auto-mapper
-A tool for automacical mapper
+A tool for mapping automatically
